@@ -1,6 +1,10 @@
 ## Обо мне
 Я [Саломатин Ростислав](https://docs.google.com/document/d/1NWc31yK3SqbaErt4APph4tU0qPAf3fm1jUUONA1vT58/edit#heading=h.5azv3ly4o3em), начинающий **Android - разработчик**
-
+### Основные инструменты, которыми я умею пользовался
+* Gradle, Plugins, IntelliJ IDEA
+* Android Studio, разметка на XML
+* SQL
+* Библиотека Room
 ### Пройденное обучение и тестирование
 * Годовой курс от **Нетологии**. [Диплом о профессиональной переподготовке](https://github.com/SaRos55/SaRos55/blob/main/Диплом.jpg), [Приложение](https://github.com/SaRos55/SaRos55/blob/main/Приложение.jpg)
   * Название дипломной работы - [Кулинарная книга](https://github.com/SaRos55/Diploma).
