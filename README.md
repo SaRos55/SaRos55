@@ -1,6 +1,6 @@
 ## Обо мне
 Я [Саломатин Ростислав](https://docs.google.com/document/d/1NWc31yK3SqbaErt4APph4tU0qPAf3fm1jUUONA1vT58/edit#heading=h.5azv3ly4o3em), начинающий **Android - разработчик**
-### Основные инструменты, которыми я умею пользовался
+### Основные инструменты, которыми я умею пользоваться
 * Gradle, Plugins, IntelliJ IDEA
 * Android Studio, разметка на XML
 * SQL
